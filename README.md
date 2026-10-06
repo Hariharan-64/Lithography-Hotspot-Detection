@@ -26,7 +26,6 @@ bash run_complete_pipeline.sh
 
 ## Files
 - `Source_Code/`: Training scripts
-- `RESEARCH_REPORT/`: IEEE paper + slides
 - `EXECUTION_INSTRUCTIONS_SIMPLE.md`: Detailed run guide
 - `DATASET_PREPROCESSING_DESCRIPTION.md`: Data details
 
